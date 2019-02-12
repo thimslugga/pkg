@@ -8,9 +8,7 @@ interface and save you some keystrokes.
 
 ## Installation
 
-    $ wget https://raw.githubusercontent.com/vinc/pkg/master/pkg.sh
-    $ sudo cp pkg.sh /usr/local/bin/pkg
-    $ sudo chmod a+x /usr/local/bin/pkg
+    $ sudo curl -so /usr/local/bin/pkg https://raw.githubusercontent.com/vinc/pkg/master/pkg.sh && sudo chmod a+x /usr/local/bin/pkg
 
 
 ## Usage
